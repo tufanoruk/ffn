@@ -10,7 +10,6 @@ set(CMAKE_CXX_STANDARD 17)
 include_directories(/usr/local/include)
 
 add_executable(ffn ffn.cpp)
-add_executable(asread asread.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
