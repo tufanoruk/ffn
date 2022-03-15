@@ -1,6 +1,6 @@
 # Find Furthest Number
 
-This is a toy project to understand working with C++17 with VSCode, CMake and boost.asio.
+This is a toy project to understand working with VSCode, C++17, CMake and boost.asio.
 
 *This test measures your speed and accuracy in carrying out number tasks in your head. For each problem presented, start by finding the highest and the lowest of the three numbers displayed.Having identified those, decide whether the highest number or the lowest number is numerically further away  from the remaining number.*
 
