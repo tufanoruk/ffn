@@ -16,7 +16,6 @@
 // This mimics a part of GIA test for number speed and accuracy
 //
 
-
 #include <iostream>
 #include <array>
 #include <random>
